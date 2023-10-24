@@ -1,0 +1,17 @@
+{
+    "name": "mathi/module13",
+    "autoload": {
+        "psr-4": {
+            "Mathi\\Module13\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathieu",
+            "email": "mathieuvantuil2000@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.71"
+    }
+}
